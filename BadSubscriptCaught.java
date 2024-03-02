@@ -34,8 +34,8 @@ public class BadSubscriptCaught {
         findButton.setBounds(240, 20, 120, 25);
         panel.add(findButton);
 
-        // Array of names
-        String[] firstNames = {"John", "Jane", "Bob", "Alice", "Ryan", "Claire", "Zach", "Emily", "Luke", "Sara"};
+        // Array of names (kpop stars hehe)
+        String[] firstNames = {"Chaewon", "Yunjin", "Jungwon", "Sunoo", "Wonyoung", "Minji", "Haerin", "Jimin", "Minjeong", "Rose"};
 
         // Adding action listener to the button
         findButton.addActionListener(new ActionListener() {
